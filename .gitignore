@@ -1,0 +1,86 @@
+# Build results
+Debug/
+Release/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+*.d
+
+# Eclipse IDE settings
+.settings/
+.metadata/
+*.launch
+.loadpath
+.recommenders
+
+# CDT-specific
+.project
+.cproject
+.autotools
+
+# PDT-specific
+.buildpath
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# STM32 specific
+*.axf
+*.htm
+*.dep
+*.uvopt
+*.uvproj
+*.plg
+*.bak
+*.orig
+*.rej
+
+# Keil uVision
+*.uvoptx
+*.uvprojx
+*.scvd
+
+# IAR EWARM
+*.ewt
+*.ewd
+*.ewp
+*.eww
+Debug/
+Release/
+settings/
+
+# STM32CubeIDE specific
+.metadata
+.settings/
+*.launch
+
+# Documentation
+Doxygen/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
