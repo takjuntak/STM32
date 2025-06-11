@@ -7,10 +7,12 @@
 
 
 #include "hw.h"
+#include "led.h"
 
 void hwInit(void)
 {
   bspInit();
 
   ledInit();
+  uartInit();
 }
